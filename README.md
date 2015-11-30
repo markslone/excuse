@@ -1,0 +1,2 @@
+# excuse
+generates random excuses
